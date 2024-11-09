@@ -1,0 +1,26 @@
+#h1{
+  font-weight:600;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.Item-container
+{
+  text-align: left;
+}
+.my-row{
+  margin:10px 5px ;
+}
+.my-btn{
+  min-width: 80px;
+}
+.todo-container{
+  width: 600px;
+  background-color:blueviolet;
+  align-content: center;
+   margin: auto;
+  
+}
